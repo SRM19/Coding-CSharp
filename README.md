@@ -8,7 +8,6 @@ Implementing Open-Closed Principle.
  *  - dividable by 5 without a remainder -> Buzz
  *  - dividable by 3 and 5 without a remainder -> FizzBuzz
  *
- * ACCEPTANCE CRITERIA:
- * Please refactor this code so that it can be easily extended in the future with other rules, such as
+ Extension of the above
  * "if it is dividable by 7 without a remainder output Bar"
  * "if multiplied by 10 is larger than 100 output Foo"
